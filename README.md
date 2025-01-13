@@ -50,9 +50,9 @@ The data had missing information which we removed from our analysis. We then ver
 ## Results
 
 We obtained the following results from our study:
-* The number of enrollments in the control group is higher than in the experiment. Naturally, the gross conversion rate is higher for control than the experiment. This suggests that users in the control group who did not see the recommendation enrolled in the course in higher numbers but must have dropped out due to time commitments. This satisfies one of the objectives of the AB test which was reducing the number of frustrated students who drop out before finishing and therefore enhancing user experience.
+* The number of enrollments and the gross conversion rate in the control group were higher than in the experiment. This suggests that users in the control group who did not see the recommendation enrolled in the course in higher numbers but must have dropped out due to time commitments. Conversely in the experiment group, users with time commitment issues dropped out after the recommendations and therefore the number of enrollments dropped. This satisfies one of the objectives of the AB test which was reducing the number of frustrated students who drop out before finishing and therefore enhancing user experience.
 * The retention rate is higher for experiment than control. Even though the difference is not practically significant, it is statistically significant. This suggests that more users who enroll are willing to pay in the experiment group than in the control group.
-* The net conversion rate is the same for both groups. The difference is both statistically and practically insignificant. This means that even though the test enhanced user experience, it did not result in increased revenue for the website.
+* The net conversion rate is the same for both groups. The difference is both statistically and practically insignificant. This means that even though the test enhanced user experience, it did not result in increased revenue for the website. 
 
 ## Recommendations
 
